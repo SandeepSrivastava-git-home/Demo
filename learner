@@ -1,0 +1,6 @@
+//how to use postgresql
+psql -U postgres -p5432 -d dvdrental 
+\d
+\c dvdrental
+\dt
+quit
